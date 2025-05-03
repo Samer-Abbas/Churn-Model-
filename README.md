@@ -1,5 +1,4 @@
 # README
-
 ## Customer Churn Prediction Project
 
 This project analyzes customer churn using various machine learning models. The goal is to predict which customers are likely to leave the bank, using features from the provided dataset.
